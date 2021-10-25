@@ -58,5 +58,5 @@
   height: var(--size-logo);
   width: var(--size-logo);
   display: block;
-  background-image: url(../../static/kr.svg);
+  background-image: url(../../static/favicon-32x32.png);
 }
