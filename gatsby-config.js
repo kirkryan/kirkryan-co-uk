@@ -36,8 +36,8 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "Kirk Ryan",
+    description: "Research and recommendations for technology start-ups",
   },
   pathPrefix: "/gatsby-contentful-starter",
   plugins: [
