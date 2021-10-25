@@ -55,8 +55,8 @@
 }
 
 .logo {
-  height: var(--size-logo);
-  width: var(--size-logo);
+  height: auto;
+  width: auto;
   display: block;
   background-image: url(../../static/favicon-32x32.png);
 }
